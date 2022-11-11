@@ -245,7 +245,14 @@ animation-delay: 2.5s;
 }
  }
  
- }
+.botonesyo:hover {
+    background-color: white !important;
+    color: orangered !important;
+}
+
+.h1boton:hover{
+color: orangered;
+}
  
 
 
